@@ -1,0 +1,19 @@
+# System packages required for Streamlit Cloud deployment
+# These packages will be installed via apt-get
+
+# Required for OpenCV
+libgl1-mesa-glx
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
+libgomp1
+
+# Required for image processing
+libjpeg-dev
+libpng-dev
+libtiff-dev
+libwebp-dev
+
+# Required for ChromaDB
+build-essential
