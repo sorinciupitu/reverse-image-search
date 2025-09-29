@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Reverse Image Search - Streamlit Application
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -300,3 +301,7 @@ If you encounter any issues or have questions:
 ---
 
 **Built with ❤️ using Streamlit, PyTorch, and ChromaDB**
+=======
+# reverse-image-search
+🔍 Aplicație Streamlit pentru căutare inversă de imagini
+>>>>>>> 03b702c3b73299cca5ec96f217124148669710bb
